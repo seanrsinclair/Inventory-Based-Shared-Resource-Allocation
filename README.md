@@ -1,4 +1,4 @@
-# Inventory-Based Shared Resource Allocation: A Little Envy Goes a (Exponentially) Long Way
+# Sequential Fair Allocation With Replenishments: A Little Envy Goes An Exponentially Long Way
 
 In this repository we include all of the code used for generating the figures and numerical simulations.
 
